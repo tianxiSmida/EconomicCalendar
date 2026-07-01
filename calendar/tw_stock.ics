@@ -1,0 +1,945 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EconomicCalendar//ZH-TW//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:📅 台灣持股行事曆
+X-PUBLISHED-TTL:PT24H
+X-WR-TIMEZONE:Asia/Taipei
+BEGIN:VEVENT
+SUMMARY:📑 3227 原相 Q2 半年報（2026年上半年）公布截止
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+UID:ad6f3bce0ab3@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3227\n公司名稱：原相\n財報期間：202
+ 6年1-6月\n法定公布截止日：2026-08-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 8069 元太 Q2 半年報（2026年上半年）公布截止
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+UID:75734364288e@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：8069\n公司名稱：元太\n財報期間：202
+ 6年1-6月\n法定公布截止日：2026-08-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3005 神基 Q2 半年報（2026年上半年）公布截止
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+UID:d8253be5e5a8@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3005\n公司名稱：神基\n財報期間：202
+ 6年1-6月\n法定公布截止日：2026-08-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2303 聯電 Q2 半年報（2026年上半年）公布截止
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+UID:fca31a2895bd@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2303\n公司名稱：聯電\n財報期間：202
+ 6年1-6月\n法定公布截止日：2026-08-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3363 上詮 Q2 半年報（2026年上半年）公布截止
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+UID:e6062e7d25fe@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3363\n公司名稱：上詮\n財報期間：202
+ 6年1-6月\n法定公布截止日：2026-08-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2313 華通 Q2 半年報（2026年上半年）公布截止
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+UID:27daf7365a73@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2313\n公司名稱：華通\n財報期間：202
+ 6年1-6月\n法定公布截止日：2026-08-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2009 第一銅 Q2 半年報（2026年上半年）公布截止
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+UID:cfcb6eaa481f@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2009\n公司名稱：第一銅\n財報期間：
+ 2026年1-6月\n法定公布截止日：2026-08-14\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 0050 元大台灣50 Q2 半年報（2026年上半年）公布
+ 截止
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+UID:a5fbaeb36747@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：0050\n公司名稱：元大台灣50\n財報期
+ 間：2026年1-6月\n法定公布截止日：2026-08-14\n（實際公布
+ 日通常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 00935 野村台灣新科技50 Q2 半年報（2026年上半年
+ ）公布截止
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+UID:1f1cb4a3c904@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：00935\n公司名稱：野村台灣新科技50\n
+ 財報期間：2026年1-6月\n法定公布截止日：2026-08-14\n（實
+ 際公布日通常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2884 玉山金 Q2 半年報（2026年上半年）公布截止
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+UID:11b01cedf250@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2884\n公司名稱：玉山金\n財報期間：
+ 2026年1-6月\n法定公布截止日：2026-08-14\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2886 兆豐金 Q2 半年報（2026年上半年）公布截止
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+UID:705b68c1afd9@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2886\n公司名稱：兆豐金\n財報期間：
+ 2026年1-6月\n法定公布截止日：2026-08-14\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2892 第一金 Q2 半年報（2026年上半年）公布截止
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+UID:6ffb689dd66a@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2892\n公司名稱：第一金\n財報期間：
+ 2026年1-6月\n法定公布截止日：2026-08-14\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3227 原相 Q3 季報（2026年第三季）公布截止
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:9129545332f4@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3227\n公司名稱：原相\n財報期間：202
+ 6年1-9月\n法定公布截止日：2026-11-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 8069 元太 Q3 季報（2026年第三季）公布截止
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:640746705ea8@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：8069\n公司名稱：元太\n財報期間：202
+ 6年1-9月\n法定公布截止日：2026-11-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3005 神基 Q3 季報（2026年第三季）公布截止
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:a8f8fb4d143f@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3005\n公司名稱：神基\n財報期間：202
+ 6年1-9月\n法定公布截止日：2026-11-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2303 聯電 Q3 季報（2026年第三季）公布截止
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:c91b4497bedb@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2303\n公司名稱：聯電\n財報期間：202
+ 6年1-9月\n法定公布截止日：2026-11-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3363 上詮 Q3 季報（2026年第三季）公布截止
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:653cb368f5ad@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3363\n公司名稱：上詮\n財報期間：202
+ 6年1-9月\n法定公布截止日：2026-11-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2313 華通 Q3 季報（2026年第三季）公布截止
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:9564c548be14@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2313\n公司名稱：華通\n財報期間：202
+ 6年1-9月\n法定公布截止日：2026-11-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2009 第一銅 Q3 季報（2026年第三季）公布截止
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:3bff0e090b61@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2009\n公司名稱：第一銅\n財報期間：
+ 2026年1-9月\n法定公布截止日：2026-11-14\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 0050 元大台灣50 Q3 季報（2026年第三季）公布截
+ 止
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:a9d71d5ec5db@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：0050\n公司名稱：元大台灣50\n財報期
+ 間：2026年1-9月\n法定公布截止日：2026-11-14\n（實際公布
+ 日通常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 00935 野村台灣新科技50 Q3 季報（2026年第三季）
+ 公布截止
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:b7d2dacb9dd3@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：00935\n公司名稱：野村台灣新科技50\n
+ 財報期間：2026年1-9月\n法定公布截止日：2026-11-14\n（實
+ 際公布日通常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2884 玉山金 Q3 季報（2026年第三季）公布截止
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:eb2cb36b8021@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2884\n公司名稱：玉山金\n財報期間：
+ 2026年1-9月\n法定公布截止日：2026-11-14\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2886 兆豐金 Q3 季報（2026年第三季）公布截止
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:849d9a4c47bf@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2886\n公司名稱：兆豐金\n財報期間：
+ 2026年1-9月\n法定公布截止日：2026-11-14\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2892 第一金 Q3 季報（2026年第三季）公布截止
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:e6bf9895b83c@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2892\n公司名稱：第一金\n財報期間：
+ 2026年1-9月\n法定公布截止日：2026-11-14\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3227 原相 年報（2026年度）公布截止
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+UID:ea1a8233e214@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3227\n公司名稱：原相\n財報期間：202
+ 6年全年\n法定公布截止日：2027-03-31\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 8069 元太 年報（2026年度）公布截止
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+UID:f66991c25a04@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：8069\n公司名稱：元太\n財報期間：202
+ 6年全年\n法定公布截止日：2027-03-31\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3005 神基 年報（2026年度）公布截止
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+UID:7d2af298b70f@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3005\n公司名稱：神基\n財報期間：202
+ 6年全年\n法定公布截止日：2027-03-31\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2303 聯電 年報（2026年度）公布截止
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+UID:2a2f5025939d@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2303\n公司名稱：聯電\n財報期間：202
+ 6年全年\n法定公布截止日：2027-03-31\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3363 上詮 年報（2026年度）公布截止
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+UID:ee52572e6ee4@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3363\n公司名稱：上詮\n財報期間：202
+ 6年全年\n法定公布截止日：2027-03-31\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2313 華通 年報（2026年度）公布截止
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+UID:86178a533e31@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2313\n公司名稱：華通\n財報期間：202
+ 6年全年\n法定公布截止日：2027-03-31\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2009 第一銅 年報（2026年度）公布截止
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+UID:828042f8ae89@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2009\n公司名稱：第一銅\n財報期間：
+ 2026年全年\n法定公布截止日：2027-03-31\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 0050 元大台灣50 年報（2026年度）公布截止
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+UID:875ef91d4503@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：0050\n公司名稱：元大台灣50\n財報期
+ 間：2026年全年\n法定公布截止日：2027-03-31\n（實際公布
+ 日通常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 00935 野村台灣新科技50 年報（2026年度）公布截
+ 止
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+UID:f266238cb45f@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：00935\n公司名稱：野村台灣新科技50\n
+ 財報期間：2026年全年\n法定公布截止日：2027-03-31\n（實
+ 際公布日通常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2884 玉山金 年報（2026年度）公布截止
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+UID:79f71e6a3d8d@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2884\n公司名稱：玉山金\n財報期間：
+ 2026年全年\n法定公布截止日：2027-03-31\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2886 兆豐金 年報（2026年度）公布截止
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+UID:b347de65c883@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2886\n公司名稱：兆豐金\n財報期間：
+ 2026年全年\n法定公布截止日：2027-03-31\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2892 第一金 年報（2026年度）公布截止
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+UID:4436d82b86b2@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2892\n公司名稱：第一金\n財報期間：
+ 2026年全年\n法定公布截止日：2027-03-31\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3227 原相 Q1 季報（2027年第一季）公布截止
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+UID:f8bb246d4a0a@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3227\n公司名稱：原相\n財報期間：202
+ 7年1-3月\n法定公布截止日：2027-05-15\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 8069 元太 Q1 季報（2027年第一季）公布截止
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+UID:695973cdddec@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：8069\n公司名稱：元太\n財報期間：202
+ 7年1-3月\n法定公布截止日：2027-05-15\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3005 神基 Q1 季報（2027年第一季）公布截止
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+UID:c5379862135b@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3005\n公司名稱：神基\n財報期間：202
+ 7年1-3月\n法定公布截止日：2027-05-15\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2303 聯電 Q1 季報（2027年第一季）公布截止
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+UID:dd7e696db9c4@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2303\n公司名稱：聯電\n財報期間：202
+ 7年1-3月\n法定公布截止日：2027-05-15\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3363 上詮 Q1 季報（2027年第一季）公布截止
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+UID:82bdf1abb218@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3363\n公司名稱：上詮\n財報期間：202
+ 7年1-3月\n法定公布截止日：2027-05-15\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2313 華通 Q1 季報（2027年第一季）公布截止
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+UID:3d35f0596e97@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2313\n公司名稱：華通\n財報期間：202
+ 7年1-3月\n法定公布截止日：2027-05-15\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2009 第一銅 Q1 季報（2027年第一季）公布截止
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+UID:16b5ddb79d0b@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2009\n公司名稱：第一銅\n財報期間：
+ 2027年1-3月\n法定公布截止日：2027-05-15\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 0050 元大台灣50 Q1 季報（2027年第一季）公布截
+ 止
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+UID:087640ce3c45@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：0050\n公司名稱：元大台灣50\n財報期
+ 間：2027年1-3月\n法定公布截止日：2027-05-15\n（實際公布
+ 日通常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 00935 野村台灣新科技50 Q1 季報（2027年第一季）
+ 公布截止
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+UID:50eba04cad35@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：00935\n公司名稱：野村台灣新科技50\n
+ 財報期間：2027年1-3月\n法定公布截止日：2027-05-15\n（實
+ 際公布日通常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2884 玉山金 Q1 季報（2027年第一季）公布截止
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+UID:6366c2a22d94@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2884\n公司名稱：玉山金\n財報期間：
+ 2027年1-3月\n法定公布截止日：2027-05-15\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2886 兆豐金 Q1 季報（2027年第一季）公布截止
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+UID:d4d6b453791b@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2886\n公司名稱：兆豐金\n財報期間：
+ 2027年1-3月\n法定公布截止日：2027-05-15\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2892 第一金 Q1 季報（2027年第一季）公布截止
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+UID:b6946facbfa4@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2892\n公司名稱：第一金\n財報期間：
+ 2027年1-3月\n法定公布截止日：2027-05-15\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3227 原相 Q2 半年報（2027年上半年）公布截止
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+UID:387ee3dc2e32@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3227\n公司名稱：原相\n財報期間：202
+ 7年1-6月\n法定公布截止日：2027-08-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 8069 元太 Q2 半年報（2027年上半年）公布截止
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+UID:1da62de07ac1@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：8069\n公司名稱：元太\n財報期間：202
+ 7年1-6月\n法定公布截止日：2027-08-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3005 神基 Q2 半年報（2027年上半年）公布截止
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+UID:9474ad31d7bc@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3005\n公司名稱：神基\n財報期間：202
+ 7年1-6月\n法定公布截止日：2027-08-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2303 聯電 Q2 半年報（2027年上半年）公布截止
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+UID:779372c73b54@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2303\n公司名稱：聯電\n財報期間：202
+ 7年1-6月\n法定公布截止日：2027-08-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3363 上詮 Q2 半年報（2027年上半年）公布截止
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+UID:47d70573db10@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3363\n公司名稱：上詮\n財報期間：202
+ 7年1-6月\n法定公布截止日：2027-08-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2313 華通 Q2 半年報（2027年上半年）公布截止
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+UID:c845223e4591@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2313\n公司名稱：華通\n財報期間：202
+ 7年1-6月\n法定公布截止日：2027-08-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2009 第一銅 Q2 半年報（2027年上半年）公布截止
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+UID:22189e378dd4@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2009\n公司名稱：第一銅\n財報期間：
+ 2027年1-6月\n法定公布截止日：2027-08-14\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 0050 元大台灣50 Q2 半年報（2027年上半年）公布
+ 截止
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+UID:c2d215fea5f6@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：0050\n公司名稱：元大台灣50\n財報期
+ 間：2027年1-6月\n法定公布截止日：2027-08-14\n（實際公布
+ 日通常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 00935 野村台灣新科技50 Q2 半年報（2027年上半年
+ ）公布截止
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+UID:bd9bd83bdd97@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：00935\n公司名稱：野村台灣新科技50\n
+ 財報期間：2027年1-6月\n法定公布截止日：2027-08-14\n（實
+ 際公布日通常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2884 玉山金 Q2 半年報（2027年上半年）公布截止
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+UID:289f8408c3bd@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2884\n公司名稱：玉山金\n財報期間：
+ 2027年1-6月\n法定公布截止日：2027-08-14\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2886 兆豐金 Q2 半年報（2027年上半年）公布截止
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+UID:ee9610608ca0@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2886\n公司名稱：兆豐金\n財報期間：
+ 2027年1-6月\n法定公布截止日：2027-08-14\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2892 第一金 Q2 半年報（2027年上半年）公布截止
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+UID:49ee2e1cb11c@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2892\n公司名稱：第一金\n財報期間：
+ 2027年1-6月\n法定公布截止日：2027-08-14\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3227 原相 Q3 季報（2027年第三季）公布截止
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+UID:5c5103000f14@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3227\n公司名稱：原相\n財報期間：202
+ 7年1-9月\n法定公布截止日：2027-11-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 8069 元太 Q3 季報（2027年第三季）公布截止
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+UID:d137b77c164c@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：8069\n公司名稱：元太\n財報期間：202
+ 7年1-9月\n法定公布截止日：2027-11-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3005 神基 Q3 季報（2027年第三季）公布截止
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+UID:7d087c2c0483@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3005\n公司名稱：神基\n財報期間：202
+ 7年1-9月\n法定公布截止日：2027-11-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2303 聯電 Q3 季報（2027年第三季）公布截止
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+UID:99339e1aa83d@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2303\n公司名稱：聯電\n財報期間：202
+ 7年1-9月\n法定公布截止日：2027-11-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3363 上詮 Q3 季報（2027年第三季）公布截止
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+UID:ae4a524b6182@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3363\n公司名稱：上詮\n財報期間：202
+ 7年1-9月\n法定公布截止日：2027-11-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2313 華通 Q3 季報（2027年第三季）公布截止
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+UID:6bc91948b437@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2313\n公司名稱：華通\n財報期間：202
+ 7年1-9月\n法定公布截止日：2027-11-14\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2009 第一銅 Q3 季報（2027年第三季）公布截止
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+UID:d175c729c736@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2009\n公司名稱：第一銅\n財報期間：
+ 2027年1-9月\n法定公布截止日：2027-11-14\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 0050 元大台灣50 Q3 季報（2027年第三季）公布截
+ 止
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+UID:b3cecb9ce056@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：0050\n公司名稱：元大台灣50\n財報期
+ 間：2027年1-9月\n法定公布截止日：2027-11-14\n（實際公布
+ 日通常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 00935 野村台灣新科技50 Q3 季報（2027年第三季）
+ 公布截止
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+UID:712a45098a05@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：00935\n公司名稱：野村台灣新科技50\n
+ 財報期間：2027年1-9月\n法定公布截止日：2027-11-14\n（實
+ 際公布日通常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2884 玉山金 Q3 季報（2027年第三季）公布截止
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+UID:2200ee8bc480@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2884\n公司名稱：玉山金\n財報期間：
+ 2027年1-9月\n法定公布截止日：2027-11-14\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2886 兆豐金 Q3 季報（2027年第三季）公布截止
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+UID:31993180bced@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2886\n公司名稱：兆豐金\n財報期間：
+ 2027年1-9月\n法定公布截止日：2027-11-14\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2892 第一金 Q3 季報（2027年第三季）公布截止
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+UID:529b7b6a19ba@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2892\n公司名稱：第一金\n財報期間：
+ 2027年1-9月\n法定公布截止日：2027-11-14\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3227 原相 年報（2027年度）公布截止
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+UID:f8c80d666dae@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3227\n公司名稱：原相\n財報期間：202
+ 7年全年\n法定公布截止日：2028-03-31\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 8069 元太 年報（2027年度）公布截止
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+UID:defe737d857f@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：8069\n公司名稱：元太\n財報期間：202
+ 7年全年\n法定公布截止日：2028-03-31\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3005 神基 年報（2027年度）公布截止
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+UID:02ad14e1ff7f@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3005\n公司名稱：神基\n財報期間：202
+ 7年全年\n法定公布截止日：2028-03-31\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2303 聯電 年報（2027年度）公布截止
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+UID:8e9a913501c2@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2303\n公司名稱：聯電\n財報期間：202
+ 7年全年\n法定公布截止日：2028-03-31\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 3363 上詮 年報（2027年度）公布截止
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+UID:86be51684be3@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：3363\n公司名稱：上詮\n財報期間：202
+ 7年全年\n法定公布截止日：2028-03-31\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2313 華通 年報（2027年度）公布截止
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+UID:1a66cc3e5b57@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2313\n公司名稱：華通\n財報期間：202
+ 7年全年\n法定公布截止日：2028-03-31\n（實際公布日通常
+ 早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2009 第一銅 年報（2027年度）公布截止
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+UID:a291f89a36bd@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2009\n公司名稱：第一銅\n財報期間：
+ 2027年全年\n法定公布截止日：2028-03-31\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 0050 元大台灣50 年報（2027年度）公布截止
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+UID:3cc3f7545ef7@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：0050\n公司名稱：元大台灣50\n財報期
+ 間：2027年全年\n法定公布截止日：2028-03-31\n（實際公布
+ 日通常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 00935 野村台灣新科技50 年報（2027年度）公布截
+ 止
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+UID:bba0cdad8b85@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：00935\n公司名稱：野村台灣新科技50\n
+ 財報期間：2027年全年\n法定公布截止日：2028-03-31\n（實
+ 際公布日通常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2884 玉山金 年報（2027年度）公布截止
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+UID:f5821ba30b4f@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2884\n公司名稱：玉山金\n財報期間：
+ 2027年全年\n法定公布截止日：2028-03-31\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2886 兆豐金 年報（2027年度）公布截止
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+UID:0e022591fc90@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2886\n公司名稱：兆豐金\n財報期間：
+ 2027年全年\n法定公布截止日：2028-03-31\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📑 2892 第一金 年報（2027年度）公布截止
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+UID:88622e5ae9a2@economic-calendar.local
+SEQUENCE:0
+CATEGORIES:台灣持股
+DESCRIPTION:股票代號：2892\n公司名稱：第一金\n財報期間：
+ 2027年全年\n法定公布截止日：2028-03-31\n（實際公布日通
+ 常早於截止日）\n查詢：https://mops.twse.com.tw/
+END:VEVENT
+END:VCALENDAR
